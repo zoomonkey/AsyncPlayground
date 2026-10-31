@@ -7,7 +7,7 @@ Task<string> downloadTask = DownloadDataAsync();
 
 Console.WriteLine("Doing other work...");
 Console.WriteLine("Calculating 10 + 20...");
-Console.WriteLine($"Answer: {10 + 20}");
+Console.WriteLine($"Answer: {10 + 20 + 30}");
 
 Console.WriteLine("Waiting for download result...");
 string result = await downloadTask;
