@@ -1,0 +1,14 @@
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\bin\Debug\net11.0\AsyncPlayground.exe
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\bin\Debug\net11.0\AsyncPlayground.deps.json
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\bin\Debug\net11.0\AsyncPlayground.runtimeconfig.json
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\bin\Debug\net11.0\AsyncPlayground.dll
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\bin\Debug\net11.0\AsyncPlayground.pdb
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\AsyncPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\AsyncPlayground.AssemblyInfoInputs.cache
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\AsyncPlayground.AssemblyInfo.cs
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\AsyncPlayground.csproj.CoreCompileInputs.cache
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\AsyncPlayground.dll
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\refint\AsyncPlayground.dll
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\AsyncPlayground.pdb
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\AsyncPlayground.genruntimeconfig.cache
+C:\Users\TDawg\Desktop\Dev\AsyncPlayground\obj\Debug\net11.0\ref\AsyncPlayground.dll
